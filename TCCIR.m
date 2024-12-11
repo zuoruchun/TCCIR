@@ -1,5 +1,5 @@
 clc;clear;
-rng(47);TN = 10;T1 = 1;t0 = 0.1;j = 13;
+rng(242);TN = 10;T1 = 1;t0 = 0.1;j = 13;
 delta = 2.^[-j+6, -j+5, -j+4, -j+3, -j];
 N = round(TN / delta(end));    % 模拟多个样本数量
 Nu = round(T1 / delta(end)) + 1;  % 供使用的样本数量
