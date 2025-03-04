@@ -1,6 +1,7 @@
-# Numerical Simulation of Stable Process and Brownian Motion
+# Numerical experiments for the paper "Parameter-related strong convergence rate of the backward Euler-Maruyama method for time-changed stochastic differential equations".
 
 ## Project Description
+This repository contains the MATLAB code used to perform the numerical experiments in the paper titled "Parameter-related strong convergence rate of the backward Euler-Maruyama method for time-changed stochastic differential equations", published in Fluctuation and Noise Letters (FNL). 
 This MATLAB program implements a numerical simulation system to study the interaction between α-stable processes and Brownian motion, utilizing the CIR (Cox-Ingersoll-Ross) model.
 
 ## Main Features
